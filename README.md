@@ -18,4 +18,4 @@ To play a hand of Blackjack the following steps must be followed:
 
 
 
-Player and  Dealer will play the Blackjack game. First, we ask the user to choose the bet amount. 
+Player and  Dealer will play the Blackjack game. First, we ask the Player to choose bet amount. 
